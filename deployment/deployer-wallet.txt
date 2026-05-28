@@ -1,1 +1,8 @@
-Deployer wallet address goes here.
+DEPLOYER WALLET ADDRESS:
+0x985d75e2F62164C19350A31C1C408C9453d45481
+
+NETWORK: Sepolia Testnet
+BALANCE: [You'll fill this in after getting faucet ETH]
+DATE: [Today's date]
+
+⚠️ SEED PHRASE STORED OFFLINE ON PAPER — NEVER COMMIT TO GITHUB
